@@ -6,17 +6,12 @@ Vissa av er kan förmodligen mer eller mindre än andra av er. Så under denna v
 ## Visual Studio Code
 
 1. Installera VS Code – Följ instruktionerna här: [Setting up Visual Studio Code](https://code.visualstudio.com/docs/setup/setup-overview)
-2. Titta på följande filmer och testa det de går igenom:
-   
-  a. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
-  
-  b. [Edit and run code in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/codeediting)
-  
-  c. [Visual Studio Code productivity tips](https://code.visualstudio.com/docs/introvideos/productivity)
-  
-  d. [Personalize Visual Studio Code](https://code.visualstudio.com/docs/introvideos/configure)
-  
-  e. [Extensions in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/extend)
+2. Titta på följande filmer och testa det de går igenom: 
+    a. [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
+    b. [Edit and run code in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/codeediting)
+    c. [Visual Studio Code productivity tips](https://code.visualstudio.com/docs/introvideos/productivity)
+    d. [Personalize Visual Studio Code](https://code.visualstudio.com/docs/introvideos/configure)
+    e. [Extensions in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/extend)
   
 
 Extra om ni vill ha ännu mer tips: [https://www.youtube.com/watch?v=EUJlVYggR1Y](https://www.youtube.com/watch?v=EUJlVYggR1Y)
