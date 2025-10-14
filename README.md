@@ -1,5 +1,3 @@
-https://www.youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx
-
 # Lexicon Front-end 2025/2026 - Instruktioner Test och kartläggning 
 Vissa av er kan förmodligen mer eller mindre än andra av er. Så under denna vecka vill vi se till att alla har en grund som vi sedan kan bygga vidare på. Även om ni kan mycket redan vill vi att ni kollar igenom det som ligger här. Kanske kan ni få några tips eller lära er något nytt. Viktigt att ni hinner göra receptövningen så ni har något att visa upp på intervjun. Så se till att planera er tid. Har ni tid över, gör något från under rubriken ”Extra” längst ned i dokumentet. När vi börjar kursen förväntas det att ni har kunskap om det som tas upp i detta dokument. 
 
@@ -30,6 +28,8 @@ Titta på videon och testa själv: [Version control in Visual Studio Code](https
 4. Läs texten om [CSS: CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 (om ni vill läsa mer: [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)) 
 5. Gör övningar för CSS fram t o m ”Links”: [CSS Exercises](https://www.w3schools.com/css/css_exercises.asp)
+
+Extra om ni vill jobba vidare: [HTML & CSS for Absolute Beginners av Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx)
 
 ## Debugger/inspector 
 
