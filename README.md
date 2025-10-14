@@ -38,26 +38,16 @@ Titta på och testa teknikerna som visas här (föredrar ni någon annan webblä
  
 ## Receptövning 
 
-Sätt upp ett nytt projekt i VS Code och skapa en sida efter följande design. Följ designen så nära ni kan genom att använda enbart HTML och CSS. Mobil/responsiv version är inte obligatorisk utan till för de som hinner och kan. 
+1. Sätt upp ett nytt projekt i VS Code och skapa en sida efter följande design - [Figma design](https://www.figma.com/design/jN5rbXkvzz9K1q20Kj0wtL/Pannkakor?node-id=0-1&t=7QOz7lmdtA2gv9Vs-1). 
+2. Följ designen så nära ni kan genom att använda enbart HTML och CSS. Mobil/responsiv version är inte obligatorisk utan till för de som hinner och kan. 
+3. Ladda upp ditt projekt på GitHub (gör gärna löpande commits under arbetet). **Länken till repot ska delas på intervjun.** 
+4. **Denna kod kommer ni på intervjun få visa upp för oss och berätta hur ni tänkt när ni löst. Se till att ni har klart detta inför intervjun och är redo att visa upp vad ni gjort.**
 
-Ladda upp ditt projekt på GitHub (gör gärna löpande commits under arbetet). **Länken till repot ska delas på intervjun.** 
-
-**Denna kod kommer ni på intervjun få visa upp för oss och berätta hur ni tänkt när ni löst. Se till att ni har klart detta inför intervjun och är redo att visa upp vad ni gjort.**
-
-[Figma design](https://www.figma.com/design/jN5rbXkvzz9K1q20Kj0wtL/Pannkakor?node-id=0-1&t=7QOz7lmdtA2gv9Vs-1)
 
 ## Extra 
 
-Har du extra tid kan du arbeta vidare med någon av följande: 
-
-Gör quiz för att se hur mycket ni kan: [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp), [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp)
-
-[CSSBattle](https://cssbattle.dev/) – Testa dina kunskaper om CSS 
-
-Skapa ett konto på [https://open.kattis.com/](https://open.kattis.com/) och gör några övningar som t ex FizzBuzz. Använd Javascript med node.js som programmeringsspråk. 
-
-Skaffa konto på [https://www.frontendmentor.io/](https://www.frontendmentor.io/) och testa en challenge 
-
-## Frågor 
-
-Har du frågor om övning eller kursinnehåll hör av dig till [robert.hedblad@lexicon.se](mailto:robert.hedblad@lexicon.se) Övriga frågor till [infoaf@lexicon.se](mailto:infoaf@lexicon.se) 
+* Har du extra tid kan du arbeta vidare med någon av följande: 
+* Gör quiz för att se hur mycket ni kan: [HTML Quiz](https://www.w3schools.com/html/html_quiz.asp), [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp)
+* [CSSBattle](https://cssbattle.dev/) – Testa dina kunskaper om CSS 
+* Skapa ett konto på [https://open.kattis.com/](https://open.kattis.com/) och gör några övningar som t ex FizzBuzz. Använd Javascript med node.js som programmeringsspråk. 
+* Skaffa konto på [https://www.frontendmentor.io/](https://www.frontendmentor.io/) och testa en challenge 
