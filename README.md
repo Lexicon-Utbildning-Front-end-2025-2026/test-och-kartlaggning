@@ -3,7 +3,9 @@ Vissa av er kan förmodligen mer eller mindre än andra av er. Så under denna v
 
 Viktigt att ni hinner göra receptövningen så ni har något att visa upp på intervjun. Så se till att planera er tid. Gör ni inte detta till intervjun kommer ni inte gå vidare i uttagningen.
 
-Har ni tid över, gör något från under rubriken ”Extra” längst ned i dokumentet. När vi börjar kursen förväntas det att ni har kunskap om det som tas upp i detta dokument. 
+När vi börjar kursen förväntas det att ni har kunskap om det som tas upp i detta dokument. 
+
+Har ni tid över, gör något från under rubriken ”Extra” längst ned i dokumentet. 
 
 ## Visual Studio Code
 
