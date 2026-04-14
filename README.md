@@ -1,9 +1,9 @@
 # Instruktioner för Test- och kartläggning 
-Vissa av er kan förmodligen mer eller mindre än andra av er. Så under denna vecka vill vi se till att alla har en grund som vi sedan kan bygga vidare på. Även om ni kan mycket redan vill vi att ni kollar igenom det som ligger här. Kanske kan ni få några tips eller lära er något nytt. **Vi förväntar oss att ni kan det som ligger i denna planering inför resten av kursen.**
+Vissa av er kan förmodligen mer eller mindre än andra av er. Så under denna vecka vill vi se till att alla har en grund som vi sedan kan bygga vidare på. Även om ni kan mycket redan vill vi att ni kollar igenom det som ligger här. Kanske kan ni få några tips eller lära er något nytt. 
 
 Viktigt att ni hinner göra receptövningen så ni har något att visa upp på intervjun. Så se till att planera er tid. Gör ni inte detta till intervjun kommer ni inte gå vidare i uttagningen.
 
-När vi börjar kursen förväntas det att ni har kunskap om det som tas upp i detta dokument. 
+**Vi förväntar oss att ni kan det som ligger i denna planering inför kurstart.**
 
 Har ni tid över, gör något från under rubriken ”Extra” längst ned i dokumentet. 
 
